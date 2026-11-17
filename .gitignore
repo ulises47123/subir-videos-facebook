@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Datos locales de cada PC (no se suben)
+registro_subida.txt
+capturas_error/
+ntfy_topico.txt
+.env
+.env.*
+# Videos
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.3gp
